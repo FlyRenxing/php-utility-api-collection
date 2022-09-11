@@ -4,7 +4,7 @@
 
 ## How to use:
 
-```injectablephp
+```php
 <?php
 require 'RenxingPush.php';
 $renxingPush = new RenxingPush("cipher");
