@@ -12,9 +12,3 @@
 | 4   | [H5Snap](https://github.com/flyrenxing/php-utility-api-collection/tree/master/H5Snap)             | H5链接抓拍上传并跳转至其他链接的程序                  | ✔️        |
 | 5   | [RenxingPushSDK-PHP](https://github.com/flyrenxing/php-utility-api-collection/tree/master/RenxingPushSDK-PHP) | [任性推](https://push.renxing.cc/)官方SDK | ✔️        |
 
-## 赞赏
-
-如果本仓库对你有帮助欢迎请我一杯咖啡（一根棒棒糖也可以qwq）😛
-
-![赞赏码](README.assets/赞赏码.png)
-
